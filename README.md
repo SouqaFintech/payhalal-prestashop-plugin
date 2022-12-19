@@ -1,7 +1,7 @@
 # Payhalal Prestashop 1.7.7 Plugin
 
 ## Requirements
-- PHP 7.4
+- PHP 7.3
 - Prestashop 1.7.7
 
 ## Note
