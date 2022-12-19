@@ -11,10 +11,24 @@ SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from
 ## Setup Instructions
 
 ```bash
+cd ~/path/to/your/prestashop/site/modules
 git clone https://github.com/SouqaFintech/payhalal-prestashop-plugin.git
 ```
 
-After you have activated the plugin and created your Payhalal account, head to the Payhalal Merchant Dashboard and click on Developer tools. Add the following URLs:
+Go to your `Prestashop Admin > Modules > Module Catalogue > search for "Payhalal" > Install Plugin`
+
+Once you have successfully installed the plugins, configure the plugin and enter your credentials. Refer to the screenshots below:
+
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop1.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop2.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop3.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop4.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop5.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop6.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop7.jpeg) 
+![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop8.jpeg) 
+
+After following the instructions above and creating your Payhalal account, head to the Payhalal Merchant Dashboard and click on Developer tools. Add the following URLs:
 
 - Return URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation  
 - Success URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation
