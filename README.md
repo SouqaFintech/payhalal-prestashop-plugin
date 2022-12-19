@@ -17,7 +17,7 @@ git clone https://github.com/SouqaFintech/payhalal-prestashop-plugin.git
 
 Go to your `Prestashop Admin > Modules > Module Catalogue > search for "Payhalal" > Install Plugin`
 
-Once you have successfully installed the plugin, configured the plugin and entered your credentials. Refer to the screenshots below:
+Once you have successfully installed and configured the plugin and entered your credentials. Refer to the screenshots below:
 
 ![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop1.jpeg) 
 ![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop2.jpeg) 
