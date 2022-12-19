@@ -61,7 +61,7 @@ class PayHalal extends PaymentModule
 
         // $this->limited_currencies = array('MYR');
 
-        $this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
+        $this->ps_versions_compliancy = array('min' => '1.7.7', 'max' => _PS_VERSION_);
     }
 
     /**
