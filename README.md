@@ -30,8 +30,8 @@ Once you have successfully installed and configured the plugin and entered your 
 
 After following the instructions above and creating your Payhalal account, head to the Payhalal Merchant Dashboard and click on Developer tools. Add the following URLs:
 
-- Return URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation  
-- Success URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation
-- Cancel URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation   
+- Return URL: https://your-website-url/index.php?fc=module&module=payhalal&controller=confirmation  
+- Success URL: https://your-website-url/index.php?fc=module&module=payhalal&controller=confirmation
+- Cancel URL: https://your-website-url/index.php?fc=module&module=payhalal&controller=confirmation   
 
 If you have any troubles with installation or have any questions, please contact <mark>support@payhalal.freshdesk.com</mark>
