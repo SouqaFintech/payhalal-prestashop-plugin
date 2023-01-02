@@ -32,6 +32,8 @@ After following the instructions above and creating your Payhalal account, head 
 
 - Return URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation  
 - Success URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation
-- Cancel URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation   
+- Cancel URL: https://your-website/index.php?fc=module&module=payhalal&controller=confirmation  
+
+**Replace "your-website" with your shopping cart domain.**
 
 If you have any troubles with installation or have any questions, please contact <mark>support@payhalal.freshdesk.com</mark>
