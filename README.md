@@ -11,9 +11,13 @@ git clone https://github.com/SouqaFintech/payhalal-prestashop-plugin.git
 - PHP 7.3
 - Prestashop 1.7.7
 
-Go to your `Prestashop Admin > Modules > Module Catalogue > search for "Payhalal" > Install Plugin`
+- Go to your `Prestashop Admin > Modules > Module Catalogue > search for "Payhalal" > Install Plugin`
 
-Once you have successfully installed and configured the plugin and entered your credentials. Refer to the screenshots below:
+- Once you have successfully installed and configured the plugin and entered your credentials. Refer to the screenshots below:
+
+- Copy the api key either testing or production by login to your <a href='https://merchant.payhalal.my'>merchant dashboard</a>. Go to General > Developer Tools and view the app key and insert the key in the form shown below in your prestashop side for payhalal plugin.
+
+- Your can either enable testing or live depends on your need once you finish doing testing, you can enable the plugin to live mode.
 
 ![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop1.jpeg) 
 ![image](https://payhalal.my/assets/images/PrestaShopSetup/prestashop2.jpeg) 
